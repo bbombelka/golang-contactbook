@@ -1,0 +1,114 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "address": { "Street": "Kulas Light", "Suite": "Apt. 556", "City": "Gwenborough", "Zipcode": "92998-3874", "Geo": { "Lat": "-37.3159" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "address": { "Street": "Victor Plains", "Suite": "Suite 879", "City": "Wisokyburgh", "Zipcode": "90566-7771", "Geo": { "Lat": "-43.9509" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "7d444840-9dc0-11d1-b245-5ffdce74fad2",
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "address": { "Street": "Douglas Extension", "Suite": "Suite 847", "City": "McKenziehaven", "Zipcode": "59590-4157", "Geo": { "Lat": "-68.6102" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "e305e608-f864-44b2-92b0-84e60c878832",
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "address": { "Street": "Hoeger Mall", "Suite": "Apt. 692", "City": "South Elvis", "Zipcode": "53919-4257", "Geo": { "Lat": "29.4572" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "address": { "Street": "Skiles Walks", "Suite": "Suite 351", "City": "Roscoeview", "Zipcode": "33263", "Geo": { "Lat": "-31.8129" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "a92b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "address": { "Street": "Norberto Crossing", "Suite": "Apt. 950", "City": "South Christy", "Zipcode": "23505-1337", "Geo": { "Lat": "-71.4197" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "b1c2d3e4-f5a6-7b8c-9d0e-1f2a3b4c5d6e",
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "address": { "Street": "Rex Trail", "Suite": "Suite 280", "City": "Howemouth", "Zipcode": "58804-1099", "Geo": { "Lat": "24.8918" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "c2d3e4f5-a6b7-8c9d-0e1f-2a3b4c5d6e7f",
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "address": { "Street": "Ellsworth Summit", "Suite": "Suite 729", "City": "Aliyaview", "Zipcode": "45169", "Geo": { "Lat": "-14.3990" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "d3e4f5a6-b7c8-9d0e-1f2a-3b4c5d6e7f8a",
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "address": { "Street": "Dayna Park", "Suite": "Suite 449", "City": "Bartholomebury", "Zipcode": "76495-3109", "Geo": { "Lat": "24.6463" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "e4f5a6b7-c8d9-0e1f-2a3b-4c5d6e7f8a9b",
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "address": { "Street": "Kattie Turnpike", "Suite": "Suite 198", "City": "Lebsackbury", "Zipcode": "31428-2261", "Geo": { "Lat": "-38.2386" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "f5a6b7c8-d90e-1f2a-3b4c-5d6e7f8a9b0c",
+    "name": "Jorgen Von Strangle",
+    "username": "FairlyOdd",
+    "address": { "Street": "Wands Way", "Suite": "99", "City": "Dimmsdale", "Zipcode": "54321-9876", "Geo": { "Lat": "42.1234" } },
+    "phoneNumber": ""
+  },
+  {
+    "id": "06b7c8d9-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+    "name": "Anita Bath",
+    "username": "CleanFreak",
+    "address": { "Street": "Soap Boulevard", "Suite": "5A", "City": "Showerington", "Zipcode": "11223-4455", "Geo": { "Lat": "-12.9876" } },
+    "phoneNumber": "555-020-2020"
+  },
+  {
+    "id": "17c8d90e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+    "name": "Anita Bath",
+    "username": "CleanFreak",
+    "address": { "Street": "Soap Boulevard", "Suite": "5A", "City": "Showerington", "Zipcode": "11223-4455", "Geo": { "Lat": "-12.9876" } },
+    "phoneNumber": "555-020-2020"
+  },
+  {
+    "id": "28d90e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "name": "Phil Harmonic",
+    "username": "MusicMan",
+    "address": { "Street": "Orchestra Lane", "Suite": "Key C", "City": "Symphonia", "Zipcode": "33445-5566", "Geo": { "Lat": "-15.4321" } },
+    "phoneNumber": "555-050-5050"
+  },
+  {
+    "id": "39e01f2a-3b4c-5d6e-7f8a-9b0c1d2e3f40",
+    "name": "Puntigammer granny",
+    "username": "puntigamer",
+    "address": { "Street": "Orchestra Lane", "Suite": "Key C", "City": "Symphonia", "Zipcode": "33445-5566", "Geo": { "Lat": "-15.4321" } },
+    "phoneNumber": "555-050-5050"
+  },
+  {
+    "id": "4af1203b-4c5d-6e7f-8a9b-0c1d2e3f4051",
+    "name": "Puntigammer granny",
+    "username": "puntigamer",
+    "address": { "Street": "Orchestra Lane", "Suite": "Key C", "City": "Symphonia", "Zipcode": "33445-5566", "Geo": { "Lat": "-15.4321" } },
+    "phoneNumber": "555-050-5050"
+  }
+]
